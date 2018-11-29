@@ -1,4 +1,5 @@
-**/.iml
+**/*.iml
+CommonMark-Java-Src/*.iml
 .classpath
 CommonMark-Java-Src/.settings
 CommonMark-Java-Src/bin
